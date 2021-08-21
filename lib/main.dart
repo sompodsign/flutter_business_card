@@ -80,23 +80,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-// Row(
-// children: <Widget>[
-// Icon(
-// Icons.mail,
-// size: 20,
-// color: Colors.teal,
-// ),
-// SizedBox(
-// width: 10,
-// ),
-// Text(
-// 'sompod123@gmail.com',
-// style: TextStyle(
-// color: Colors.teal.shade900,
-// fontSize: 20.0,
-// ),
-// ),
-// ],
-// ),
